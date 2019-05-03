@@ -24,7 +24,7 @@
     "codecov.io": "^0.1.6",
     "coveralls": "^2.11.16",
     "react-bootstrap": " 0.30.7",
-    "react-jsonschema-form": "0.43.0"
+    "react-jsonschema-form": "1.5.0"
   },
   "peerDependencies": {
     "react": "15.x"
